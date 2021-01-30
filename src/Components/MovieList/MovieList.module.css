@@ -1,0 +1,19 @@
+.MovieList {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    grid-row-gap: 80px;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+.MovieList p {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #00adb5;
+    margin-top: 10px;
+    font-size: 18px;
+}
