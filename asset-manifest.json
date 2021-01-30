@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UltraMovies/static/css/main.d215f1d4.chunk.css",
+    "main.js": "/UltraMovies/static/js/main.c15ccdc7.chunk.js",
+    "main.js.map": "/UltraMovies/static/js/main.c15ccdc7.chunk.js.map",
+    "runtime-main.js": "/UltraMovies/static/js/runtime-main.567d8055.js",
+    "runtime-main.js.map": "/UltraMovies/static/js/runtime-main.567d8055.js.map",
+    "static/js/2.4a831890.chunk.js": "/UltraMovies/static/js/2.4a831890.chunk.js",
+    "static/js/2.4a831890.chunk.js.map": "/UltraMovies/static/js/2.4a831890.chunk.js.map",
+    "static/js/3.0a5bdfb4.chunk.js": "/UltraMovies/static/js/3.0a5bdfb4.chunk.js",
+    "static/js/3.0a5bdfb4.chunk.js.map": "/UltraMovies/static/js/3.0a5bdfb4.chunk.js.map",
+    "index.html": "/UltraMovies/index.html",
+    "static/css/main.d215f1d4.chunk.css.map": "/UltraMovies/static/css/main.d215f1d4.chunk.css.map",
+    "static/js/2.4a831890.chunk.js.LICENSE.txt": "/UltraMovies/static/js/2.4a831890.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567d8055.js",
+    "static/js/2.4a831890.chunk.js",
+    "static/css/main.d215f1d4.chunk.css",
+    "static/js/main.c15ccdc7.chunk.js"
+  ]
+}
