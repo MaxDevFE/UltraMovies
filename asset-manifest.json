@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/UltraMovies/static/css/main.d33adb5d.chunk.css",
-    "main.js": "/UltraMovies/static/js/main.49478403.chunk.js",
-    "main.js.map": "/UltraMovies/static/js/main.49478403.chunk.js.map",
+    "main.css": "/UltraMovies/static/css/main.8b81b058.chunk.css",
+    "main.js": "/UltraMovies/static/js/main.8a689178.chunk.js",
+    "main.js.map": "/UltraMovies/static/js/main.8a689178.chunk.js.map",
     "runtime-main.js": "/UltraMovies/static/js/runtime-main.28adc34f.js",
     "runtime-main.js.map": "/UltraMovies/static/js/runtime-main.28adc34f.js.map",
-    "static/js/2.61592b5d.chunk.js": "/UltraMovies/static/js/2.61592b5d.chunk.js",
-    "static/js/2.61592b5d.chunk.js.map": "/UltraMovies/static/js/2.61592b5d.chunk.js.map",
+    "static/js/2.7d08250b.chunk.js": "/UltraMovies/static/js/2.7d08250b.chunk.js",
+    "static/js/2.7d08250b.chunk.js.map": "/UltraMovies/static/js/2.7d08250b.chunk.js.map",
     "static/js/3.929a53bb.chunk.js": "/UltraMovies/static/js/3.929a53bb.chunk.js",
     "static/js/3.929a53bb.chunk.js.map": "/UltraMovies/static/js/3.929a53bb.chunk.js.map",
     "index.html": "/UltraMovies/index.html",
-    "static/css/main.d33adb5d.chunk.css.map": "/UltraMovies/static/css/main.d33adb5d.chunk.css.map",
-    "static/js/2.61592b5d.chunk.js.LICENSE.txt": "/UltraMovies/static/js/2.61592b5d.chunk.js.LICENSE.txt",
+    "static/css/main.8b81b058.chunk.css.map": "/UltraMovies/static/css/main.8b81b058.chunk.css.map",
+    "static/js/2.7d08250b.chunk.js.LICENSE.txt": "/UltraMovies/static/js/2.7d08250b.chunk.js.LICENSE.txt",
     "static/media/user.6a84b905.jpg": "/UltraMovies/static/media/user.6a84b905.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.28adc34f.js",
-    "static/js/2.61592b5d.chunk.js",
-    "static/css/main.d33adb5d.chunk.css",
-    "static/js/main.49478403.chunk.js"
+    "static/js/2.7d08250b.chunk.js",
+    "static/css/main.8b81b058.chunk.css",
+    "static/js/main.8a689178.chunk.js"
   ]
 }
